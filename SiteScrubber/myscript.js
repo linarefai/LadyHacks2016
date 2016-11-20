@@ -39,7 +39,6 @@ function handleText(textNode)
 	v = v.replace(/\bfuckwit\b/gi, "poor thing");
 	v = v.replace(/\bdamn\b/gi, "dang");
 	v = v.replace(/\bdick\b/gi, "penis");
-	v = v.replace(/\bcock\b/gi, "penis");
 	v = v.replace(/\bpussy\b/gi, "cat");
 	v = v.replace(/\basshole\b/gi, "rapscallion");
 	v = v.replace(/\bdouche\b/gi, "dummy");
@@ -50,6 +49,7 @@ function handleText(textNode)
 	v = v.replace(/\bbastard\b/gi, "John Snow");
 	v = v.replace(/\bcunt\b/gi, "flower");
 	v = v.replace(/\bdumbass\b/gi, "stupid");
+	v = v.replace(/\bcock\b/gi, "rooster");
 
 
 
