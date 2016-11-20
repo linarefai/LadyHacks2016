@@ -45,7 +45,7 @@ function handleText(textNode)
 	v = v.replace(/\bdouche\b/gi, "dummy");
 	v = v.replace(/\bfag\b/gi, "fun person");
 	v = v.replace(/\bslut\b/gi, "shamelessly amazing person");
-	v = v.replace(/\btrump\b/gi, "the piece of pumpkin shit");
+	v = v.replace(/\btrump\b/gi, "the piece of pumpkin poop");
 	v = v.replace(/\bpiss\b/gi, "pee");
 	v = v.replace(/\bbastard\b/gi, "John Snow");
 	v = v.replace(/\bcunt\b/gi, "flower");
